@@ -1,1 +1,1 @@
-# resume-tailwind-responsive
+# responsive-resume
